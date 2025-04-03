@@ -12,7 +12,6 @@ I am an undergraduate Computer Engineering student at UNET. I always search for 
   - React js
 - Ask me about anything, I am happy to help
 - Outside tech, 🎮I love to play video games, 🎵listening to music and 📖reading things that catch my interest.
-- Contact: theryancs@gmail.com
 
 <h2>Languages</h2>
  <span>
