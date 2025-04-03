@@ -13,7 +13,7 @@ I am an undergraduate Computer Engineering student at UNET. I always search for 
 - Ask me about anything, I am happy to help
 - Outside tech, 🎮I love to play video games, 🎵listening to music and 📖reading things that catch my interest.
 
-<h1>Languages</h1>
+##languages
  <span>
    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -24,7 +24,7 @@ I am an undergraduate Computer Engineering student at UNET. I always search for 
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
  </span>
 
-<h1>Github Stats</h1>
+#Github Stats
 <p align= "Left">
   <img height= "200" src="https://github-readme-stats.vercel.app/api?username=Ther04&theme=react&show_icons=true&include_all_commits=true" />
   <!--
