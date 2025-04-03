@@ -13,7 +13,7 @@ I am an undergraduate Computer Engineering student at UNET. I always search for 
 - Ask me about anything, I am happy to help
 - Outside tech, 🎮I love to play video games, 🎵listening to music and 📖reading things that catch my interest.
 
-##languages
+<h2>Languages</h2>
  <span>
    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -24,7 +24,9 @@ I am an undergraduate Computer Engineering student at UNET. I always search for 
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
  </span>
 
-#Github Stats
+<h2>Contact with me</h2>
+    <a href="mailto:theryancs@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"             alt="Gmail"/></a>&nbsp;
+<h2>Github Stats</h2>
 <p align= "Left">
   <img height= "200" src="https://github-readme-stats.vercel.app/api?username=Ther04&theme=react&show_icons=true&include_all_commits=true" />
   <!--
