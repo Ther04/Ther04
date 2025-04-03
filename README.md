@@ -25,8 +25,8 @@ I am an undergraduate Computer Engineering student at UNET. I always search for 
  </span>
 
 <h2>Reach me at</h2>
-    <a target="_blank" href="mailto:theryancs@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-    <a href="https://www.instagram.com/tacs_04"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Ig" /></a>&nbsp;
+    <a href="mailto:theryancs@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+    <a target="_blank" href="https://www.instagram.com/tacs_04"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Ig" /></a>&nbsp;
     
 <h2>Github Stats</h2>
 <p align= "Left">
