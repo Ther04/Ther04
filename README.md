@@ -27,7 +27,6 @@ I am an undergraduate Computer Engineering student at UNET. I always search for 
 <h1>Github Stats</h1>
 <p align= "Left">
   <img height= "200" src="https://github-readme-stats.vercel.app/api?username=Ther04&theme=react&show_icons=true&include_all_commits=true" />
-  <!--
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ther04&theme=react&layout=compact" />
-  -->
+  
 </p>
